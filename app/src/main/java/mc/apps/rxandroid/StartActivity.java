@@ -1,4 +1,4 @@
-package mc.apps.start;
+package mc.apps.rxandroid;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
@@ -33,6 +33,8 @@ public class StartActivity extends AppCompatActivity {
 
         getSupportActionBar().hide();
         startAnimation();
+
+        logo.setOnClickListener((e)->open());
     }
     private void startAnimation() {
         AnimatorSet animatorSet = new AnimatorSet();

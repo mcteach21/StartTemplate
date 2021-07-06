@@ -12,7 +12,7 @@
 
     <color name="colorPrimary">#263238</color>
     <color name="colorPrimaryLight">#4f5b62</color>
-    <color name="colorPrimaryDark">#000a12</color>
+    <color name="colorPrimaryDark">#072237</color>
     <color name="colorAccent">#03DAC5</color>
     <color name="colorPrimaryText">#ffffff</color>
 </resources>

@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Start Template</string>
+    <string name="app_name">RxAndroid Demo</string>
+    <string name="btn_start_text">Start</string>
+    <string name="btn_stop_text">Stop!</string>
 </resources>

@@ -1,4 +1,4 @@
-package mc.apps.start;
+package mc.apps.rxandroid;
 
 import android.content.Context;
 
